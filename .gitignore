@@ -1,0 +1,25 @@
+# Ignorar los módulos de Node.js
+/node_modules
+
+# Ignorar archivos de configuración específicos para tu entorno de desarrollo
+.env
+.env.*
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de respaldo de editor de texto
+*~
+
+# Ignorar archivos compilados o generados
+/dist
+/build
+/out
+
+# Ignorar archivos de dependencias específicos dentro de nuestros directorios
+/client/node_modules
+/api/node_modules
+
+# Ignorar archivos de caché o temporales
+/.cache
+/.temp
