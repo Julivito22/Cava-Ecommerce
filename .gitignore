@@ -23,3 +23,6 @@
 # Ignorar archivos de caché o temporales
 /.cache
 /.temp
+
+# Ignorar el archivo package-lock.json
+package-lock.json
