@@ -35,7 +35,7 @@ const { Dogs } = sequelize.models;
 const { Temperaments } = sequelize.models;
 */
 /**models */
-const {Users, Products} = sequelize.models; 
+//const {Users, Products} = sequelize.models; 
 // Aca vendrian las relaciones
 // Product.hasMany(Reviews);
 module.exports = {
